@@ -1,0 +1,14 @@
+
+nav {
+    align-self: flex-start;
+  }
+  
+  nav a {
+  color: black !important;
+}
+  nav ul {
+    display: flex;
+    flex-direction: row !important;
+  }
+  
+  

@@ -1,0 +1,8 @@
+footer {
+    width: 100%;
+    text-align:end;
+}
+
+footer * {
+    margin: 2%;
+}

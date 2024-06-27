@@ -1,0 +1,10 @@
+
+
+.techstack {
+    padding: 10%;
+  }
+  
+  .techstack .col-4 .active {
+    background-color: #646464;
+    border: #646464;
+  }
