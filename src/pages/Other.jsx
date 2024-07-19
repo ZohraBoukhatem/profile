@@ -8,7 +8,7 @@ function Other() {
     <div className="c">
       <div className="left">
         <div className="fixed">
-          <img src="https://i.ibb.co/xsznynR/profile.jpg" alt="profile picture"/>
+          <img src="profile.jpg" alt="profile picture"/>
             <div id="contact">
               <span>Zohra Boukhatem</span>
               <span>Fullstack developer</span>

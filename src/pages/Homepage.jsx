@@ -26,7 +26,7 @@ function Homepage() {
         <div className="left">
           <div className="fixed">
             <img
-              src="https://i.ibb.co/xsznynR/profile.jpg"
+              src="profile.jpg"
               alt="profile picture"
             />
             <div id="contact">
@@ -51,7 +51,7 @@ function Homepage() {
               <div className="col">
                 <div className="card">
                   <img
-                    src="https://i.ibb.co/QrbTCG1/what-now.png"
+                    src="what-now.png"
                     className="card-img-top"
                     alt="homepage-screenshot"
                   />
@@ -85,7 +85,7 @@ function Homepage() {
               <div className="col">
                 <div className="card">
                   <img
-                    src="https://i.ibb.co/tPnZWHH/shopping-app.png"
+                    src="TS-app.png"
                     className="card-img-top"
                     alt="homepage-screenshot"
                   />
@@ -119,7 +119,7 @@ function Homepage() {
               <div className="col">
                 <div className="card">
                   <img
-                    src="https://i.ibb.co/41j8HJV/dragon-pong.png"
+                    src="dragon-pong.png"
                     className="card-img-top"
                     alt="homepage-screenshot"
                   />
@@ -154,7 +154,7 @@ function Homepage() {
               <div className="col">
                 <div className="card">
                   <img
-                    src="https://i.ibb.co/CsDF2mY/aniki.png"
+                    src="aniki.jpg"
                     className="card-img-top"
                     alt="homepage-screenshot"
                   />
